@@ -1,0 +1,234 @@
+{
+  ".svelte-kit/build/index.js": {
+    "file": "index.js",
+    "src": ".svelte-kit/build/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index-cbebd36d.js"
+    ],
+    "dynamicImports": [
+      "src/hooks.ts"
+    ]
+  },
+  "src/routes/panel/todos/index@panel.ts": {
+    "file": "entries/endpoints/panel/todos/index@panel.ts.js",
+    "src": "src/routes/panel/todos/index@panel.ts",
+    "isEntry": true
+  },
+  "src/routes/__layout.svelte": {
+    "file": "entries/pages/__layout.svelte.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-cbebd36d.js",
+      "_app-2b14ae68.js",
+      "_stores-fafaecc9.js",
+      "_Navbar-d6073e39.js"
+    ],
+    "css": [
+      "assets/entries/pages/__layout.svelte-82b74f6c.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-cbebd36d.js"
+    ]
+  },
+  "src/routes/__layout-panel.svelte": {
+    "file": "entries/pages/__layout-panel.svelte.js",
+    "src": "src/routes/__layout-panel.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-cbebd36d.js",
+      "_stores-fafaecc9.js",
+      "_app-2b14ae68.js",
+      "_Navbar-d6073e39.js",
+      "_Milink-ac98d84e.js",
+      "_index-6fa35462.js"
+    ],
+    "css": [
+      "assets/entries/pages/__layout-panel.svelte-2b46ddf1.css"
+    ]
+  },
+  "src/routes/__layout-reset.svelte": {
+    "file": "entries/pages/__layout-reset.svelte.js",
+    "src": "src/routes/__layout-reset.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-cbebd36d.js",
+      "_stores-fafaecc9.js",
+      "_app-2b14ae68.js"
+    ],
+    "css": [
+      "assets/entries/pages/__layout-reset.svelte-58b96679.css"
+    ]
+  },
+  "src/routes/auth/login@reset.svelte": {
+    "file": "entries/pages/auth/login@reset.svelte.js",
+    "src": "src/routes/auth/login@reset.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-cbebd36d.js",
+      "_Cabecera-968729ba.js",
+      "_stores-fafaecc9.js"
+    ],
+    "css": [
+      "assets/entries/pages/auth/login@reset.svelte-27a11185.css"
+    ],
+    "assets": [
+      "assets/login-oficina-ef83d44d.jpeg"
+    ]
+  },
+  "src/routes/auth/register@reset.svelte": {
+    "file": "entries/pages/auth/register@reset.svelte.js",
+    "src": "src/routes/auth/register@reset.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-cbebd36d.js",
+      "_Cabecera-968729ba.js",
+      "_stores-fafaecc9.js"
+    ],
+    "css": [
+      "assets/entries/pages/auth/register@reset.svelte-9300c5b5.css"
+    ],
+    "assets": [
+      "assets/create-account-office-dark-fe02c2e9.jpeg"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "entries/pages/index.svelte.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-cbebd36d.js"
+    ]
+  },
+  "src/routes/panel/about@panel.svelte": {
+    "file": "entries/pages/panel/about@panel.svelte.js",
+    "src": "src/routes/panel/about@panel.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-cbebd36d.js",
+      "_Cabecera-968729ba.js",
+      "_env-14926626.js",
+      "_stores-fafaecc9.js"
+    ],
+    "css": [
+      "assets/entries/pages/panel/about@panel.svelte-6bdc0e12.css"
+    ]
+  },
+  "src/routes/panel/ejemplos@panel.svelte": {
+    "file": "entries/pages/panel/ejemplos@panel.svelte.js",
+    "src": "src/routes/panel/ejemplos@panel.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-cbebd36d.js",
+      "_env-14926626.js",
+      "_Counter-6f1e6712.js",
+      "_Milink-ac98d84e.js",
+      "_Cabecera-968729ba.js",
+      "_index-6fa35462.js",
+      "_stores-fafaecc9.js"
+    ],
+    "css": [
+      "assets/entries/pages/panel/ejemplos@panel.svelte-7150a8dc.css"
+    ]
+  },
+  "src/routes/panel/index@panel.svelte": {
+    "file": "entries/pages/panel/index@panel.svelte.js",
+    "src": "src/routes/panel/index@panel.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-cbebd36d.js",
+      "_Cabecera-968729ba.js",
+      "_Counter-6f1e6712.js",
+      "_stores-fafaecc9.js",
+      "_index-6fa35462.js"
+    ],
+    "css": [
+      "assets/entries/pages/panel/index@panel.svelte-c4407133.css"
+    ]
+  },
+  "src/routes/panel/todos/index@panel.svelte": {
+    "file": "entries/pages/panel/todos/index@panel.svelte.js",
+    "src": "src/routes/panel/todos/index@panel.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-cbebd36d.js",
+      "_Cabecera-968729ba.js",
+      "_stores-fafaecc9.js"
+    ],
+    "css": [
+      "assets/entries/pages/panel/todos/index@panel.svelte-d222d5b9.css"
+    ]
+  },
+  "_index-cbebd36d.js": {
+    "file": "chunks/index-cbebd36d.js"
+  },
+  "_app-2b14ae68.js": {
+    "file": "chunks/app-2b14ae68.js",
+    "imports": [
+      "_index-cbebd36d.js"
+    ],
+    "css": [
+      "assets/app-aa33d39a.css"
+    ]
+  },
+  "_stores-fafaecc9.js": {
+    "file": "chunks/stores-fafaecc9.js",
+    "imports": [
+      "_index-cbebd36d.js"
+    ]
+  },
+  "_Navbar-d6073e39.js": {
+    "file": "chunks/Navbar-d6073e39.js",
+    "imports": [
+      "_index-cbebd36d.js",
+      "_stores-fafaecc9.js"
+    ]
+  },
+  "_Milink-ac98d84e.js": {
+    "file": "chunks/Milink-ac98d84e.js",
+    "imports": [
+      "_index-cbebd36d.js",
+      "_stores-fafaecc9.js"
+    ],
+    "css": [
+      "assets/Milink-46890039.css"
+    ]
+  },
+  "_index-6fa35462.js": {
+    "file": "chunks/index-6fa35462.js",
+    "imports": [
+      "_index-cbebd36d.js"
+    ]
+  },
+  "_Cabecera-968729ba.js": {
+    "file": "chunks/Cabecera-968729ba.js",
+    "imports": [
+      "_index-cbebd36d.js",
+      "_stores-fafaecc9.js"
+    ]
+  },
+  "_env-14926626.js": {
+    "file": "chunks/env-14926626.js"
+  },
+  "_Counter-6f1e6712.js": {
+    "file": "chunks/Counter-6f1e6712.js",
+    "imports": [
+      "_index-cbebd36d.js",
+      "_index-6fa35462.js"
+    ],
+    "css": [
+      "assets/Counter-359ffb8c.css"
+    ]
+  },
+  "src/hooks.ts": {
+    "file": "chunks/hooks-2518eff3.js",
+    "src": "src/hooks.ts",
+    "isDynamicEntry": true
+  }
+}

@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+	overflow: hidden;
+}
+
+#svelte {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+}
+
+
+.menu li a {
+	@apply rounded-r-lg;
+}
+
+.menu.menu-horizontal li a {
+	@apply rounded-lg;
+}
+
