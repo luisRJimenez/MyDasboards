@@ -1,4 +1,4 @@
-import { v4 as uuid } from '@lukeed/uuid';
+import { v4 as uuid } from 'uuid';
 
 import type { Handle } from '@sveltejs/kit';
 import * as cookie from 'cookie';

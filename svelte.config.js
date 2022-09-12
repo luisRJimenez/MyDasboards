@@ -18,7 +18,7 @@ const config = {
 }),
 
 	kit: {
-		adapter: adapter(),
+		adapter: adapter({env: {port:process.env.PORT}}),
 		prerender: {default: true},
 		// Override http methods in the Todo forms
 		methodOverride: {
